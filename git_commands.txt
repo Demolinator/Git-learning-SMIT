@@ -1,0 +1,45 @@
+git config --global user.email <email>
+git config --global user.name <name>
+
+
+git init
+
+
+git status
+
+
+git add .
+
+git commit -m "Your comment"
+
+
+git remote add origin <repo.url>
+
+
+git remote -v
+
+
+git push -u origin <Brnch name>
+git push origin <Branch name>
+
+
+
+git branch -m <Branch name>
+
+
+
+readme.md
+
+git pull origin <Branch name>
+
+error: unable to merge unrelated histories 
+
+git pull origin <Branch name> --allow-unrealted-histories
+
+there will be changes and you to stage and commit the changes.
+
+Then finally you will push the changes to the remote repository.
+
+
+
+
