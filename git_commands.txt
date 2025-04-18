@@ -1,4 +1,4 @@
-These are the git commands
+-- These are the git commands
 
 git config --global user.email <email>
 git config --global user.name <name>
